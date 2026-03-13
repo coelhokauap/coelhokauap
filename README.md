@@ -36,12 +36,6 @@ I enjoy transforming ideas into **functional and user-friendly digital solutions
 
 ---
 
-## Social Media
-
-![Social Media](https://skillicons.dev/icons?i=linkedin,instagram&theme=light&perline=4)
-
----
-
 # 🎯 Current Focus
 
 - Web Development
