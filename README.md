@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Kauã Coelho Pacheco
 
-<!--
-**coelhokauap/coelhokauap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student  
+🚀 Passionate about Technology, Development and Innovation  
+📍 Brazil  
 
-Here are some ideas to get you started:
+I’m currently studying **Software Engineering at FIAP** and constantly improving my skills in **software development, web technologies and problem solving**. I enjoy building digital solutions that create real impact for people and companies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 About Me
+
+- 🎓 Software Engineering Student at **FIAP**
+- 📚 Constantly learning through **Alura**
+- 💡 Interested in **Web Development, Software Engineering and Technology Innovation**
+- 🤝 Looking for my **first opportunity in tech**
+- 🌎 Languages: Portuguese (Native) | English (B2)
+
+I enjoy transforming ideas into **functional and user-friendly digital solutions**.
+
+---
+
+## My Skills
+
+### Languages
+
+![Languages](https://skillicons.dev/icons?i=html,css,javascript,py,c&theme=light&perline=4)
+
+### Technologies
+
+![Technologies](https://skillicons.dev/icons?i=arduino,react&theme=light&perline=4)
+
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=apple,vscode,discord,figma,git,github,sqlite,swift&theme=light&perline=4)
+
+---
+
+## Social Media
+
+![Social Media](https://skillicons.dev/icons?i=linkedin,instagram&theme=light&perline=4)
+
+---
+
+# 🎯 Current Focus
+
+- Web Development
+- Software Engineering Fundamentals
+- Git & GitHub Collaboration
+- UI/UX and Responsive Design
+
+---
+
+
