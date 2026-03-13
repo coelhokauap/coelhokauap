@@ -1,22 +1,24 @@
-# 👋 Hi, I'm Kauã Coelho Pacheco
+# Hi there, I'm Kauã 👋
 
-💻 Software Engineering Student  
-🚀 Passionate about Technology, Development and Innovation  
-📍 Brazil  
-
-I’m currently studying **Software Engineering at FIAP** and constantly improving my skills in **software development, web technologies and problem solving**. I enjoy building digital solutions that create real impact for people and companies.
+🎓 Software Development student
+💻 Passionate about building digital solutions and learning new technologies  
 
 ---
 
-# 🚀 About Me
+⚙️ I use daily:  
+`.html` `.css` `.javascript` `.git` `.python` `.vscode`
 
-- 🎓 Software Engineering Student at **FIAP**
-- 📚 Constantly learning through **Alura**
-- 💡 Interested in **Web Development, Software Engineering and Technology Innovation**
-- 🤝 Looking for my **first opportunity in tech**
-- 🌎 Languages: Portuguese (Native) | English (B2)
+🌱 Currently learning:  
+`Swift` `iOS Development` `React Native` `Web Development`
 
-I enjoy transforming ideas into **functional and user-friendly digital solutions**.
+🚀 Interests:  
+Software Development • Mobile Apps • Web Technologies • UI/UX
+
+📚 Projects focus on:  
+Clean code • Simple interfaces • Learning by building
+
+💬 Ask me about:  
+web development, programming basics, git & github, or tech learning
 
 ---
 
@@ -34,15 +36,5 @@ I enjoy transforming ideas into **functional and user-friendly digital solutions
 
 ![Tools](https://skillicons.dev/icons?i=apple,vscode,discord,figma,git,github,sqlite,swift&theme=light&perline=4)
 
----
-
-# 🎯 Current Focus
-
-- Web Development
-- Software Engineering Fundamentals
-- Git & GitHub Collaboration
-- UI/UX and Responsive Design
-
----
 
 
