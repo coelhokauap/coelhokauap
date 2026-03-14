@@ -16,11 +16,13 @@
 
 ---
 
-•💡Knowledge:                    
+• ⚙️ Knowledge:                    
 `Programming Logic` `Design Thinking` `Responsive Design` `Software Project Management` `Digital Accessibility` `SEO` `Data Science` `AI Prompting` `Internet Fundamentals` `TCP/IP` `DNS`
 
-•💬Languages:                
+• 💬 Languages:                
 `Portuguese (Native)` `Advanced English (B2 – Cambridge)`
+
+---
 
 • Programming:                         
 `HTML5` `CSS3` `JavaScript` `Python` `C` `React`
@@ -42,3 +44,4 @@
 
 ![Design](https://skillicons.dev/icons?i=figma&theme=light&perline=4)
 
+---
