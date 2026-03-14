@@ -14,38 +14,31 @@
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 
-• Software Development student
-
-• Passionate about building digital solutions and learning new technologies  
-
 ---
 
-• Knowledge:             
+•💡Knowledge:                    
 `Programming Logic` `Design Thinking` `Responsive Design` `Software Project Management` `Digital Accessibility` `SEO` `Data Science` `AI Prompting` `Internet Fundamentals` `TCP/IP` `DNS`
 
-
-• Languages:              
+•💬Languages:                
 `Portuguese (Native)` `Advanced English (B2 – Cambridge)`
 
-• Technologies:               
+• Programming:                         
+`HTML5` `CSS3` `JavaScript` `Python` `C` `React`
+
+![Programming](https://skillicons.dev/icons?i=html,css,javascript,py,c,react&theme=light&perline=10)
+
+• Tools:                           
+`Git` `GitHub` `Visual Studio Code` `Microsoft Office` `Google Workspace`
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=light&perline=4)
+
+• Technologies:                                       
 `Hardware` `Internet of Things (IoT)` `Arduino` `Robotics`
 
-• Design:              
-`Web Design` `UX/UI Design` `Figma` `Canva`
+![Technologies](https://skillicons.dev/icons?i=arduino&theme=light&perline=4)
 
----
+• Design:                              
+`Web Design` `UX/UI` `Figma` `Canva`
 
-### Languages
-
-![Languages](https://skillicons.dev/icons?i=html,css,javascript,py,c&theme=light&perline=4)
-
-### Technologies
-
-![Technologies](https://skillicons.dev/icons?i=arduino,react&theme=light&perline=4)
-
-### Tools
-
-![Tools](https://skillicons.dev/icons?i=apple,vscode,discord,figma,git,github,sqlite,swift&theme=light&perline=4)
-
-
+![Design](https://skillicons.dev/icons?i=figma&theme=light&perline=4)
 
