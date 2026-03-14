@@ -14,25 +14,20 @@
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 
-🎓 Software Development student
-💻 Passionate about building digital solutions and learning new technologies  
+• Software Development student
+
+• Passionate about building digital solutions and learning new technologies  
 
 ---
 
 • I use daily:  
-`.html` `.css` `.javascript` `.git` `.python` `.vscode`
+`.html` `.css` `.javascript` `.git` `.python` `.vscode` 
 
 • Currently learning:  
 `Swift` `iOS Development` `React Native` `Web Development`
 
 • Interests:  
-Software Development • Mobile Apps • Web Technologies • UI/UX
-
-• Projects focus on:  
-Clean code • Simple interfaces • Learning by building
-
-• Ask me about:  
-web development, programming basics, git & github, or tech learning
+`Software Development` `Mobile Apps` `Web Technologies` `UI/UX`
 
 ---
 
