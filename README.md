@@ -1,4 +1,4 @@
-# Hi, I'm Kauã Coelho Pacheco 🐇
+# Hi, I'm Kauã 🐇
 
 <pre>
                                   ___           ___           ___       ___       ___     
