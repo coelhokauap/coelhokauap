@@ -16,7 +16,7 @@
 
 ---
 
-I'm `Kauã`, an `18-year-old developer`. I enjoy exploring how technology can transform ideas into functional, scalable, and well-designed products. My journey in technology began with curiosity about how systems work behind the scenes, and since then I have been continuously developing my knowledge in programming, software architecture, problem solving, and modern development tools. I believe that great software is not only about writing code, but also about understanding problems, designing solutions, and creating meaningful user experiences.
+I'm `Kauã`, an `18-year-old` `developer` from `Brazil`. I enjoy exploring how technology can transform ideas into functional, scalable, and well-designed products. My journey in technology began with curiosity about how systems work behind the scenes, and since then I have been continuously developing my knowledge in programming, software architecture, problem solving, and modern development tools. I believe that great software is not only about writing code, but also about understanding problems, designing solutions, and creating meaningful user experiences.
 
 ---
 
