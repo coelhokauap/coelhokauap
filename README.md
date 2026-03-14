@@ -47,5 +47,3 @@ I'm `Kauã`, an `18-year-old developer`. I enjoy exploring how technology can tr
 `Web Design` `UX/UI` `Figma` `Canva`
 
 ![Design](https://skillicons.dev/icons?i=figma&theme=light&perline=4)
-
----
