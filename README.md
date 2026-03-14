@@ -20,18 +20,16 @@
 
 ---
 
-• I use daily:  
+• I use daily
 `.html` `.css` `.javascript` `.git` `.python` `.vscode` 
 
-• Currently learning:  
+• I'm good at
 `Swift` `iOS Development` `React Native` `Web Development`
 
-• Interests:  
-`Software Development` `Mobile Apps` `Web Technologies` `UI/UX`
+• Languages
+`Portuguese (Native)` `English (B2 – Cambridge)`
 
 ---
-
-## My Skills
 
 ### Languages
 
