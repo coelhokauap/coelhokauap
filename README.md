@@ -1,4 +1,4 @@
-# Hi, I'm Kauã 🐇
+# Hello, I'm Kauã
 
 <pre>
                                   ___           ___           ___       ___       ___     
