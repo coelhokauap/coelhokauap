@@ -1,23 +1,37 @@
-# Hi there, I'm Kauã 👋
+# Hi, I'm Kauã Coelho Pacheco
+
+<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
 
 🎓 Software Development student
 💻 Passionate about building digital solutions and learning new technologies  
 
 ---
 
-⚙️ I use daily:  
+• I use daily:  
 `.html` `.css` `.javascript` `.git` `.python` `.vscode`
 
-🌱 Currently learning:  
+• Currently learning:  
 `Swift` `iOS Development` `React Native` `Web Development`
 
-🚀 Interests:  
+• Interests:  
 Software Development • Mobile Apps • Web Technologies • UI/UX
 
-📚 Projects focus on:  
+• Projects focus on:  
 Clean code • Simple interfaces • Learning by building
 
-💬 Ask me about:  
+• Ask me about:  
 web development, programming basics, git & github, or tech learning
 
 ---
