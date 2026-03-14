@@ -20,14 +20,18 @@
 
 ---
 
-• I use daily
-`.html` `.css` `.javascript` `.git` `.python` `.vscode` 
+• Knowledge:             
+`Programming Logic` `Design Thinking` `Responsive Design` `Software Project Management` `Digital Accessibility` `SEO` `Data Science` `AI Prompting` `Internet Fundamentals` `TCP/IP` `DNS`
 
-• I'm good at
-`Swift` `iOS Development` `React Native` `Web Development`
 
-• Languages
-`Portuguese (Native)` `English (B2 – Cambridge)`
+• Languages:              
+`Portuguese (Native)` `Advanced English (B2 – Cambridge)`
+
+• Technologies:               
+`Hardware` `Internet of Things (IoT)` `Arduino` `Robotics`
+
+• Design:              
+`Web Design` `UX/UI Design` `Figma` `Canva`
 
 ---
 
