@@ -29,9 +29,9 @@ I'm `Kauã`, an `18-year-old developer`. I enjoy exploring how technology can tr
 ---
 
 • Programming:                         
-`HTML5` `CSS3` `JavaScript` `Python` `C` `React`
+`HTML5` `CSS3` `JavaScript` `Node.js` `Python` `C` `React`
 
-![Programming](https://skillicons.dev/icons?i=html,css,javascript,py,c,react&theme=light&perline=10)
+![Programming](https://skillicons.dev/icons?i=html,css,javascript,nodejs,py,c,react&theme=light&perline=10)
 
 • Tools:                           
 `Git` `GitHub` `Visual Studio Code` `Microsoft Office` `Google Workspace`
